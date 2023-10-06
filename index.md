@@ -3,15 +3,15 @@ layout: default
 title: "Ricardo Camacho"
 ---
 
-My name is Ricardo. I'm a PhD candidate in Geomatics at the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)) and the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) at [The University of Melbourne](https://www.unimelb.edu.au/).  I am co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard). Before I started my PhD, I was fortunate enough to work as a researcher and lecturer in Geomatics at [Universidad de Los Andes](https://uniandes.edu.co/), where I collaborated closely with the Research Group on Urban and Regional Sustainability ([SUR](https://sur.uniandes.edu.co/) [SCEA group](https://github.com/utcs-scea) and the Research Protfolio on Historical Ecology and Social Memory ({EHMS}(https://ehms.uniandes.edu.co/)).
+My name is Ricardo. I'm a PhD candidate in Geomatics at the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)) and the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) at [The University of Melbourne](https://www.unimelb.edu.au/).  I am co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard). Before I started my PhD, I was fortunate enough to work as a researcher and lecturer in Geomatics at [Universidad de Los Andes](https://uniandes.edu.co/), where I collaborated closely with the Research Group on Urban and Regional Sustainability ([SUR](https://sur.uniandes.edu.co/) and the Research Portfolio on Historical Ecology and Social Memory ([EHMS](https://ehms.uniandes.edu.co/)).
 
-I obtained a BS in Civil Engineering and a BS in Environmental Engineering at the [Universidad de Los Andes](https://uniandes.edu.co/), in Bogotá, Colombia. After this, I obtained my MSc in Civil Engineering for Risk Mitigation at [Politecnico di Milan](https://www.polimi.it/en), in Italy.
+I obtained a BS in Civil Engineering and a BS in Environmental Engineering at the [Universidad de Los Andes](https://uniandes.edu.co/) in Bogotá, Colombia. After this, I obtained my MSc in Civil Engineering for Risk Mitigation at [Politecnico di Milan](https://www.polimi.it/en) in Italy.
 
 ## What is my research about?
 
-Informal urban growth presents a challenge that some cities worldwide have seen during the past few decades. As the population grows and spreads, the informal settlements expand, joining the urban dynamics that characterise a city. However, these dynamics are usually disrupted after a disastrous event, challenging the public policies.
+Informal urban growth presents a challenge that some cities worldwide have seen during the past few decades. As the population grows and spreads, the informal settlements expand, joining the urban dynamics that characterise a city. However, these dynamics are usually disrupted after a disastrous event, challenging public policies.
 
-My research consists of understanding how informal urban settlements' spatial dynamics and distribution change before and after a disaster and how this change challenges the public policies on legalisation, recovery, and resilience. I am dealing with spatial, social, and policy aspects surrounding informal urban settlements in disaster-prone cities. 
+My research involves understanding how informal urban settlements' spatial dynamics and distribution change before and after a disaster and how this change challenges the public policies on legalisation, recovery, and resilience. I am dealing with spatial, social, and policy aspects surrounding informal urban settlements in disaster-prone cities. 
 
 
 ---
@@ -29,14 +29,15 @@ My research consists of understanding how informal urban settlements' spatial dy
 
 ## Publications
 
-**Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia.**
+**Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia.**  
+N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, and R. Camacho, M. Cabrera.  
+[GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin) (2023).  
+[DOI: 10.1130/B36557.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/135/9-10/2510/619822/Late-Holocene-volcanic-stratigraphy-and-eruption)  
 
-N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, and R. Camacho, M. Cabrera.
-
-[GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin) (2023). 
-
-[DOI: 10.1130/B36557.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/135/9-10/2510/619822/Late-Holocene-volcanic-stratigraphy-and-eruption)
-
+**Altis: Modernizing GPGPU Benchmarks**  
+<u>Bodun Hu</u>, [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
+**<span style="color:orangered">ISPASS 2020</span>**  
+[[pdf]](https://ieeexplore.ieee.org/document/9238617) [[video]](https://www.youtube.com/watch?v=mRkcmjGzytY) [[code]](https://github.com/utcs-scea/altis) [[website]](https://utcs-scea.github.io/altis/)
 
 [Complete Publications](./publications)
 
