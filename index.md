@@ -30,8 +30,9 @@ My research involves understanding how informal urban settlements' spatial dynam
 ## Publications
 
 **Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia.**  
-N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, and R. Camacho, M. Cabrera.  
-[GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin) (2023).  
+N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, <u>R. Camacho</u>, and M. Cabrera.  
+[GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin)  
+2023  
 [DOI: 10.1130/B36557.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/135/9-10/2510/619822/Late-Holocene-volcanic-stratigraphy-and-eruption)  
 
 **Altis: Modernizing GPGPU Benchmarks**  
