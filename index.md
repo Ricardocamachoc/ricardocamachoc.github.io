@@ -29,9 +29,12 @@ My research consists of understanding how informal urban settlements' spatial dy
 
 ## Publications
 
-Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia.
+**Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia.**
+
 N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, and R. Camacho, M. Cabrera.
+
 [GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin) (2023). 
+
 [DOI: 10.1130/B36557.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/135/9-10/2510/619822/Late-Holocene-volcanic-stratigraphy-and-eruption)
 
 
@@ -42,8 +45,11 @@ N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Rovera
 ## Teaching Experience
 
 Jul - Nov 2023: Tutor at University of Melbourne of the course Digital Infrastructure Systems Capstone [GEOM30012](https://handbook.unimelb.edu.au/2023/subjects/geom30012)
+
 Jul - Nov 2022: Tutor at University of Melbourne of the course Integrated Spatial Systems [GEOM30012](https://handbook.unimelb.edu.au/2022/subjects/geom30012)
+
 Jan 2017 - Dec 2019: Course coordinator and Lecturer at Universidad de Los Andes of the course Geomatics [ICYA1125](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2018/segundo-semestre/icya-1125-geomatica-2018-20-secc-1.pdf)
+
 Jan 2017 - Dec 2017: Lecturer at Universidad de Los Andes of the course Statics [ICYA1116](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2017/segundo-semestre/2017-20-icya/icya-1116-estatica-2017-20-seccion-3.pdf)
 
 ---
