@@ -16,7 +16,7 @@ My research involves understanding how informal urban settlements' spatial dynam
 
 ---
 
-## News
+## Latest news
 
 09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
 05/23/2022: I will be joining Intel XFG this summer!  
@@ -27,7 +27,7 @@ My research involves understanding how informal urban settlements' spatial dynam
 
 ---
 
-## Publications
+## Latest publications
 
 **Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia**  
 N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, <u>R. Camacho</u>, and M. Cabrera.  
@@ -48,8 +48,8 @@ L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán
 [DOI: 10.1007/s11111-022-00400-5](https://link.springer.com/article/10.1007/s11111-022-00400-5)  
 
 •	 
-•  
-•	 
+•    
+•	   
 [Complete Publications](./publications)
 
 ---
