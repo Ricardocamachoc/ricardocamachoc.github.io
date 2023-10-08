@@ -47,10 +47,9 @@ L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán
 2022  
 [DOI: 10.1007/s11111-022-00400-5](https://link.springer.com/article/10.1007/s11111-022-00400-5)  
 
-•	 
-•    
-•	   
-[Complete Publications](./publications)
+•	• •  
+
+[... see all publications](./publications)
 
 ---
 
