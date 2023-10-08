@@ -7,9 +7,11 @@ title: News
 
 ## News
 
-09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
-05/23/2022: I will be joining Intel XFG this summer!  
-09/01/2021: Officially started my PhD.  
+/05/2023: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
+21/03/2022: I passed my confirmation and became a PhD Candidate.  
+22/02/2022: Oral presentation at the <i>Infrastructure Engineering Postgraduate Conference (IEPC 2021/2022)</i>.
+13/12/2021: Oral presentation at the <i>International Symposium on Rebuilding Communities after Displacement</i>.  
+14/12/2020: Officially started my PhD at [Unimelb](https://www.unimelb.edu.au/)  
 05/22/2021: **I officially graduated from UT Austin!**  
 05/22/2021: Attending Commencement Ceremony. Webcast is available [here](https://video.ibm.com/recorded/126779814).  
 05/21/2021: Attending CNS Graduate Recognition Moments. More information can be found @ [here](https://utaustin.fullmeasure.io/#/landing/?organization_id=45a81510-031d-467d-b972-378ad8e8d20a&card_id=524594a3-c44a-8da5-6dc5-7ba8abeafef9). Live stream @ [here](https://www.youtube.com/watch?v=ZrM4h9AhfgQ).  
