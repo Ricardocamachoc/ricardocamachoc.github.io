@@ -5,7 +5,7 @@ title: Publications
 
 [Home](./)
 
-## Publications
+## All publications
 
 **Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia**  
 N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, <u>R. Camacho</u>, and M. Cabrera.  
