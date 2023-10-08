@@ -47,24 +47,9 @@ L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán
 2022  
 [DOI: 10.1007/s11111-022-00400-5](https://link.springer.com/article/10.1007/s11111-022-00400-5)  
 
-**Assessment of the potential risk of leaching pesticides in agricultural soils: Study case Tibasosa, Boyaca, Colombia**  
-L. Navarro, <u>R. Camacho</u>, J. Gallego, and J.F. Saldarriaga  
-[Heliyon](https://www.cell.com/heliyon/home)  
-2021  
-[DOI: 10.1016/J.HELIYON.2021.E08301](https://www.cell.com/heliyon/pdf/S2405-8440(21)02404-X.pdf)  
-
-**Worlding resilience in the Doña Juana Volcano, Northern Andes (Colombia): a transdisciplinary view**  
-N. Pardo, C. Gonzalez, M. Espinosa, M. Cabrera, S. Salazar, S. Archila, N. Palacios, D. Preto, <u>R. Camacho</u>, and L. Parra  
-[Natural Hazards](https://www.springer.com/journal/11069)  
-2021  
-[DOI: 10.1007/s11069-021-04662-4](https://link.springer.com/article/10.1007/s11069-021-04662-4)  
-
-**The Mocoa Event on March 31 (2017). Analysis of a series of mass movements in a tropical environment of the Andean-Amazonian Piedmont**  
-L.F. Prada-Sarmiento, M. Cabrera, <u>R. Camacho</u>, N. Estrada, and A. Ramos  
-[Landslides](https://www.springer.com/journal/10346)  
-2019  
-[DOI: 10.1007/s10346-019-01263-y](https://link.springer.com/article/10.1007/s10346-019-01263-y)  
-
+•	 
+•  
+•	 
 [Complete Publications](./publications)
 
 ---
