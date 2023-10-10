@@ -5,7 +5,7 @@ blank_title: true
 description: Personal website
 show_downloads: false
 remote_theme: BDHU/minimalist
-color-scheme: dark
+color-scheme: light
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
