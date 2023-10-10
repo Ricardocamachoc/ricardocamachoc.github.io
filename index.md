@@ -56,17 +56,17 @@ L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán
 
 ## Teaching Experience
 
-•	Jul - Nov 2023: Tutor at University of Melbourne of the course Digital Infrastructure Systems Capstone ([GEOM30012](https://handbook.unimelb.edu.au/2023/subjects/geom30012)).  
-•	Jul - Nov 2022: Tutor at University of Melbourne of the course Integrated Spatial Systems ([GEOM30012](https://handbook.unimelb.edu.au/2022/subjects/geom30012)).  
-•	Jan 2017 - Dec 2019: Course coordinator and Lecturer at Universidad de Los Andes of the course Geomatics ([ICYA1125](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2018/segundo-semestre/icya-1125-geomatica-2018-20-secc-1.pdf)).  
-•	Jan 2017 - Dec 2017: Lecturer at Universidad de Los Andes of the course Statics ([ICYA1116](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2017/segundo-semestre/2017-20-icya/icya-1116-estatica-2017-20-seccion-3.pdf)).  
+*   Jul - Nov 2023: Tutor at University of Melbourne of the course Digital Infrastructure Systems Capstone ([GEOM30012](https://handbook.unimelb.edu.au/2023/subjects/geom30012)).
+*   Jul - Nov 2022: Tutor at University of Melbourne of the course Integrated Spatial Systems ([GEOM30012](https://handbook.unimelb.edu.au/2022/subjects/geom30012)).  
+*   Jan 2017 - Dec 2019: Course coordinator and Lecturer at Universidad de Los Andes of the course Geomatics ([ICYA1125](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2018/segundo-semestre/icya-1125-geomatica-2018-20-secc-1.pdf)).  
+*  	Jan 2017 - Dec 2017: Lecturer at Universidad de Los Andes of the course Statics ([ICYA1116](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2017/segundo-semestre/2017-20-icya/icya-1116-estatica-2017-20-seccion-3.pdf)).  
 
 ---
 
 ## Awards
 
-•	September 2021: [Biannual Javeriana Award in Research](https://wallet.xertify.co/certificates/EEC73DFBA001).  
-•	January 2020: PhD scholarship from Colombia's Ministry of Science, Technology, and Innovation to undertake doctoral studies abroad and a partial Melbourne Research Scholarship.  
-•	September 2014: UniverLecco Gold Scholarship.  
+*   September 2021: [Biannual Javeriana Award in Research](https://wallet.xertify.co/certificates/EEC73DFBA001).
+*   January 2020: PhD scholarship from Colombia's Ministry of Science, Technology, and Innovation to undertake doctoral studies abroad and a partial Melbourne Research Scholarship.
+*   September 2014: UniverLecco Gold Scholarship.  
 
 ---
