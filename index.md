@@ -42,7 +42,7 @@ S. Salazar, <u>R. Camacho</u>, S. Villota, N. Pardo, A. Velasquez, M. Cabrera an
 2022  
 [DOI: 10.1080/17445647.2022.2101948](https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2101948)  
 
-**Modeling population density guided by land usełcover change model: a case study of Bogotá**  
+**Modeling population density guided by land use cover change model: a case study of Bogotá**  
 L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán  
 [Population and Environment](https://www.springer.com/journal/11111)  
 2022  
