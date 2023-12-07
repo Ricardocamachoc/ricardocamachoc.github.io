@@ -67,6 +67,9 @@ L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán
 
 *   September 2021: [Biannual Javeriana Award in Research](https://wallet.xertify.co/certificates/EEC73DFBA001).
 *   January 2020: PhD scholarship from Colombia's Ministry of Science, Technology, and Innovation to undertake doctoral studies abroad and a partial Melbourne Research Scholarship.
-*   September 2014: UniverLecco Gold Scholarship.  
+*   September 2014: UniverLecco Gold Scholarship.
+
+[## Manuscript](./manuscript)
+
 
 ---
