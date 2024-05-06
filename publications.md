@@ -10,7 +10,7 @@ title: Publications
 **Disaster-induced disruption of policies for informal urban settlements**  
 <u>R. Camacho</u>, J. Aryal, and A. Rajabifard.  
 [Cities](https://www.sciencedirect.com/journal/cities)  
-2023  
+2024  
 [DOI: 10.1016/j.cities.2024.105098](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub)  
 
 **Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia**  
