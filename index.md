@@ -18,7 +18,7 @@ My research involves understanding how informal urban settlements' spatial dynam
 
 ## Latest news
 
-05/05/2024: First PhD article published!  
+05/05/2024: First PhD [article](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub) published!  
 01/05/2024: Back from the Leave of Absence, ready to continue my PhD journey.  
 30/10/2023: Took a 6-month leave of absence from the PhD to focus on mental and physical health.  
 24/10/2023: Oral presentation at the <i>Infrastructure Engineering Graduate Research Conference (IEGRC 2023)</i> at Unimelb.  
@@ -76,7 +76,7 @@ L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán
 
 ## Awards
 
-*   November 2022: Dejar Huella recognition. Best Impactful Project. Universidad de Los Andes.
+*   November 2022: [Dejar Huella Award: Best Impactful Project](https://geociencias.uniandes.edu.co/es/dejar-huella-uniandes).  Universidad de Los Andes.
 *   September 2021: [Biannual Javeriana Award in Research](https://wallet.xertify.co/certificates/EEC73DFBA001).
 *   January 2020: PhD scholarship from Colombia's Ministry of Science, Technology, and Innovation to undertake doctoral studies abroad and a partial Melbourne Research Scholarship.
 *   September 2014: UniverLecco Gold Scholarship.
