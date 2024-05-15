@@ -18,7 +18,7 @@ My research involves understanding how informal urban settlements' spatial dynam
 
 ## Latest news
 
-15/05/2024: Accepted in to the **2024 Horizons Doctoral Academy** of the [Melbourne Centre for Cities](https://www.unimelb.edu.au/cities) and RMIT University's [Centre for Urban Research](https://www.rmit.edu.au/research/centres-collaborations/centre-for-urban-research).  
+15/05/2024: Accepted in to the **2024 Horizons Doctoral Academy** of the [Melbourne Centre for Cities](https://www.unimelb.edu.au/cities) and RMIT University's [Centre for Urban Research](https://cur.org.au/).  
 05/05/2024: First PhD [article](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub) published!  
 01/05/2024: Back from the Leave of Absence, ready to continue my PhD journey.  
 30/10/2023: Took a 6-month leave of absence from the PhD to focus on mental and physical health.  
