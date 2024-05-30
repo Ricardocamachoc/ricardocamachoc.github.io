@@ -3,7 +3,7 @@ layout: default
 title: "Ricardo Camacho"
 ---
 
-My name is Ricardo. I'm a PhD candidate in Geomatics at the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)), the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)), and the [Research Group in EO and AI](https://www.unimelb.edu.au/cdmps/research/research-units/earth-observations) at [The University of Melbourne](https://www.unimelb.edu.au/).  I am co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard). Before I started my PhD, I was fortunate enough to work as a researcher and lecturer in Geomatics at [Universidad de Los Andes](https://uniandes.edu.co/), where I collaborated closely with the Research Group on Urban and Regional Sustainability ([SUR](https://sur.uniandes.edu.co/)) and the Research Portfolio on Historical Ecology and Social Memory ([EHMS](https://ehms.uniandes.edu.co/)).
+My name is Ricardo. I'm a PhD candidate in Geomatics at the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)), the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)), and the [Research Group in EO and AI](https://www.unimelb.edu.au/cdmps/research/research-units/earth-observations) at [The University of Melbourne](https://www.unimelb.edu.au/).  I am co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard). Before I started my PhD, I was fortunate enough to work as a Lecturer and Researcher in Geomatics at [Universidad de Los Andes](https://uniandes.edu.co/), where I collaborated closely with the Research Group on Urban and Regional Sustainability ([SUR](https://sur.uniandes.edu.co/)) and the Research Portfolio on Historical Ecology and Social Memory ([EHMS](https://ehms.uniandes.edu.co/)).
 
 I obtained a BS in Civil Engineering and a BS in Environmental Engineering at the [Universidad de Los Andes](https://uniandes.edu.co/) in Bogotá, Colombia. After this, I obtained my MSc in Civil Engineering for Risk Mitigation at [Politecnico di Milan](https://www.polimi.it/en) in Italy.
 
@@ -17,7 +17,7 @@ My research involves understanding how informal urban settlements' spatial dynam
 ---
 
 ## Latest news
-
+31/05/2024: Attended the 2024 Disaster Management Training Course by the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) of the University of Melbourne, and the Asian Disaster Preparedness Center ([ADPC](https://www.adpc.net/igo/Default.asp)).  
 15/05/2024: Accepted in to the **2024 Horizons Doctoral Academy** of the [Melbourne Centre for Cities](https://www.unimelb.edu.au/cities) and RMIT University's [Centre for Urban Research](https://cur.org.au/).  
 05/05/2024: First PhD [article](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub) published!  
 01/05/2024: Back from the Leave of Absence, ready to continue my PhD journey.  
