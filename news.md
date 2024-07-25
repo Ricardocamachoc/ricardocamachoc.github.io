@@ -7,6 +7,7 @@ title: News
 
 ## News
 18/06/2024: Presented a piece of my PhD research at the [43rd EARSeL Symposium](https://manchester2024.earsel.org/) at the Manchester Metropolitan University.  
+31/05/2024: Attended the 2024 Disaster Management Training Course by the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) of the University of Melbourne, and the Asian Disaster Preparedness Center ([ADPC](https://www.adpc.net/igo/Default.asp)).  
 15/05/2024: Accepted in to the **2024 Horizons Doctoral Academy** of the [Melbourne Centre for Cities](https://www.unimelb.edu.au/cities) and RMIT University's [Centre for Urban Research](https://cur.org.au/).  
 05/05/2024: First PhD [article](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub) published!  
 01/05/2024: Back from the Leave of Absence, ready to continue my PhD journey.  
