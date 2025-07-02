@@ -10,7 +10,7 @@ title: Publications
 **How do disasters disrupt the spatial growth of informal settlements? A multi-temporal remote sensing approach – The case study of Mocoa, Colombia**  
 <u>R. Camacho</u>, J. Aryal, and A. Rajabifard.  
 [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
-2024  
+2025  
 [DOI: 10.1016/j.habitatint.2024.103272](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub)  
 
 **Disaster-induced disruption of policies for informal urban settlements**  
