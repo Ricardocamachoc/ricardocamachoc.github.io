@@ -17,7 +17,10 @@ My research involves understanding how informal urban settlements' spatial dynam
 ---
 
 ## Latest news
-30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published!  
+12/05/2025: Back from the Leave of Absence, ready to finally finish my PhD journey!.  
+30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published!
+01/11/2024: Took a 6-month leave of absence from the PhD to focus on mental and physical health.
+21/10/2024: Oral presentation at the <i>Infrastructure Engineering Graduate Research Conference (IEGRC 2024)</i> at Unimelb. 
 18/06/2024: Presented a piece of my PhD research at the [43rd EARSeL Symposium](https://manchester2024.earsel.org/) at the Manchester Metropolitan University.  
 31/05/2024: Attended the 2024 Disaster Management Training Course by the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) of the University of Melbourne, and the Asian Disaster Preparedness Center ([ADPC](https://www.adpc.net/igo/Default.asp)).  
 15/05/2024: Accepted in to the **2024 Horizons Doctoral Academy** of the [Melbourne Centre for Cities](https://www.unimelb.edu.au/cities) and RMIT University's [Centre for Urban Research](https://cur.org.au/).  
@@ -41,7 +44,7 @@ My research involves understanding how informal urban settlements' spatial dynam
 **How do disasters disrupt the spatial growth of informal settlements? A multi-temporal remote sensing approach – The case study of Mocoa, Colombia**  
 <u>R. Camacho</u>, J. Aryal, and A. Rajabifard.  
 [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
-2024  
+2025  
 [DOI: 10.1016/j.habitatint.2024.103272](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub)  
 
 **Disaster-induced disruption of policies for informal urban settlements**  
