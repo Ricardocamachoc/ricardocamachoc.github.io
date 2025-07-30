@@ -18,8 +18,8 @@ My research involves understanding how informal urban settlements' spatial dynam
 
 ## Latest news
 12/05/2025: Back from the Leave of Absence, ready to finally finish my PhD journey!.  
-30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published!
-01/11/2024: Took a 6-month leave of absence from the PhD to focus on mental and physical health.
+30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published!  
+01/11/2024: Took a 6-month leave of absence from the PhD to focus on mental health.  
 21/10/2024: Oral presentation at the <i>Infrastructure Engineering Graduate Research Conference (IEGRC 2024)</i> at Unimelb. 
 18/06/2024: Presented a piece of my PhD research at the [43rd EARSeL Symposium](https://manchester2024.earsel.org/) at the Manchester Metropolitan University.  
 31/05/2024: Attended the 2024 Disaster Management Training Course by the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) of the University of Melbourne, and the Asian Disaster Preparedness Center ([ADPC](https://www.adpc.net/igo/Default.asp)).  
