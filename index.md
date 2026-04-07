@@ -3,101 +3,114 @@ layout: default
 title: "Ricardo Camacho"
 ---
 
-My name is Ricardo. I'm a PhD candidate in Geomatics at the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)), the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)), and the [Research Group in EO and AI](https://www.unimelb.edu.au/cdmps/research/research-units/earth-observations) at [The University of Melbourne](https://www.unimelb.edu.au/).  I am co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard). Before I started my PhD, I was fortunate enough to work as a Lecturer and Researcher in Geomatics at [Universidad de Los Andes](https://uniandes.edu.co/), where I collaborated closely with the Research Group on Urban and Regional Sustainability ([SUR](https://sur.uniandes.edu.co/)) and the Research Portfolio on Historical Ecology and Social Memory ([EHMS](https://ehms.uniandes.edu.co/)).
+# About me
 
-I obtained a BS in Civil Engineering and a BS in Environmental Engineering at the [Universidad de Los Andes](https://uniandes.edu.co/) in Bogotá, Colombia. After this, I obtained my MSc in Civil Engineering for Risk Mitigation at [Politecnico di Milan](https://www.polimi.it/en) in Italy.
+I am Ricardo Camacho, a geospatial researcher working at the intersection of **Earth Observation, spatial modelling, and disaster risk**.
 
-## What is my research about?
+I recently completed my PhD in Geomatics at [The University of Melbourne](https://www.unimelb.edu.au/), where I worked with the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)), the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)), and the [Research Group in EO and AI](https://www.unimelb.edu.au/cdmps/research/research-units/earth-observations). I was co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard).
 
-Informal urban growth presents a challenge that some cities worldwide have seen during the past few decades. As the population grows and spreads, the informal settlements expand, joining the urban dynamics that characterise a city. However, these dynamics are usually disrupted after a disastrous event, challenging public policies.
+Before moving to Australia, I worked as a Lecturer and Researcher in Geomatics at [Universidad de Los Andes](https://uniandes.edu.co/) in Bogotá, Colombia, where I also collaborated with the Research Group on Urban and Regional Sustainability ([SUR](https://sur.uniandes.edu.co/)) and the Research Portfolio on Historical Ecology and Social Memory ([EHMS](https://ehms.uniandes.edu.co/)).
 
-My research involves understanding how informal urban settlements' spatial dynamics and distribution change before and after a disaster and how this change challenges the public policies on legalisation, recovery, and resilience. I am dealing with spatial, social, and policy aspects surrounding informal urban settlements in disaster-prone cities. 
-
-
----
-
-## Latest news
-25/03/2025: Thesis examination outcome: Passed with Minor revisions! The examiners were professors from Boston University and Cambridge University.  
-10/12/2025: **Submitted my thesis!** titled: <i>Spatial Dynamics of the Informal Urban Growth in Disaster-prone Cities<i/>.  
-09/12/2025: Presented and passed my PhD Completion Seminar!.  
-10/11/2025: Presented at the <i>Victorian Disaster Research Forum<i/> at RMIT.  
-12/05/2025: Back from the Leave of Absence, ready to finally finish my PhD journey!.  
-30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published!  
-01/11/2024: Took a 6-month leave of absence from the PhD to focus on mental health.  
-21/10/2024: Oral presentation at the <i>Infrastructure Engineering Graduate Research Conference (IEGRC 2024)</i> at Unimelb.  
-18/06/2024: Presented a piece of my PhD research at the [43rd EARSeL Symposium](https://manchester2024.earsel.org/) at the Manchester Metropolitan University.  
-31/05/2024: Attended the 2024 Disaster Management Training Course by the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)) of the University of Melbourne, and the Asian Disaster Preparedness Center ([ADPC](https://www.adpc.net/igo/Default.asp)).  
-15/05/2024: Accepted in to the **2024 Horizons Doctoral Academy** of the [Melbourne Centre for Cities](https://www.unimelb.edu.au/cities) and RMIT University's [Centre for Urban Research](https://cur.org.au/).  
-05/05/2024: First PhD [article](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub) published!  
-01/05/2024: Back from the Leave of Absence, ready to continue my PhD journey.  
-30/10/2023: Took a 6-month leave of absence from the PhD to focus on mental and physical health.  
-24/10/2023: Oral presentation at the <i>Infrastructure Engineering Graduate Research Conference (IEGRC 2023)</i> at Unimelb.  
-10/05/2023: Oral presentation at the <i>LOCATE23 Conference </i>.  
-02/11/2022: Oral presentation at the <i>Infrastructure Engineering Graduate Research Conference (IEGRC 2022)</i> at Unimelb.  
-21/03/2022: I passed my confirmation and became a PhD Candidate.  
-22/02/2022: Oral presentation at the <i>Infrastructure Engineering Postgraduate Conference (IEPC 2021/2022)</i> at Unimelb.  
-13/12/2021: Oral presentation at the <i>International Symposium on Rebuilding Communities after Displacement</i> Online.  
-14/12/2020: **Officially started my PhD at [Unimelb](https://www.unimelb.edu.au/)**.  
-
-[...see all news](./news)
+I hold a BS in Civil Engineering and a BS in Environmental Engineering from [Universidad de Los Andes](https://uniandes.edu.co/), and an MSc in Civil Engineering for Risk Mitigation from [Politecnico di Milano](https://www.polimi.it/en).
 
 ---
 
-## Latest publications  
+## Research focus
+
+My research explores how **informal urban settlements evolve in disaster-prone cities**, and how these dynamics interact with **risk, governance, and public policy**.
+
+More specifically, I investigate:
+
+- how informal settlements grow and change over time
+- how disasters disrupt urban growth trajectories
+- how Earth Observation and spatial modelling can help explain these changes
+- how this evidence can support resilience planning and decision-making
+
+My PhD research focused on the spatial dynamics of informal urban growth in **Mocoa, Colombia**, combining:
+
+- multi-temporal remote sensing
+- machine learning for land-use classification
+- cellular automata and counterfactual modelling
+- policy and governance analysis
+
+---
+
+## Featured work
+
+### Counterfactual modelling of disaster impact
+
+A central contribution of my PhD was the development of a **“What If” framework** to explore how urban growth may have evolved in the absence of disaster.
+
+This work combines deep learning, Earth Observation, and cellular automata to compare observed post-disaster urban growth against simulated no-disaster scenarios.
+
+### Earth Observation of informal urban growth
+
+My research uses multi-source and multi-temporal imagery, including historical aerial photography and satellite imagery, to map long-term urban change in data-scarce environments.
+
+This work helps identify patterns such as densification, peripheral expansion, and post-disaster regrowth in hazard-prone areas.
+
+### Disaster governance and policy disruption
+
+I have also examined how disasters reshape governance and public policy around informal settlements, showing how disruptive events can expose and intensify pre-existing planning and institutional weaknesses.
+
+---
+
+## Selected publications
 
 **How do disasters disrupt the spatial growth of informal settlements? A multi-temporal remote sensing approach – The case study of Mocoa, Colombia**  
-<u>R. Camacho</u>, J. Aryal, and A. Rajabifard.  
-[Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
-2025  
-[DOI: 10.1016/j.habitatint.2024.103272](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub)  
+<u>R. Camacho</u>, J. Aryal, and A. Rajabifard  
+[Habitat International](https://www.sciencedirect.com/journal/habitat-international), 2025  
+[DOI: 10.1016/j.habitatint.2024.103272](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub)
 
 **Disaster-induced disruption of policies for informal urban settlements**  
-<u>R. Camacho</u>, J. Aryal, and A. Rajabifard.  
-[Cities](https://www.sciencedirect.com/journal/cities)  
-2024  
-[DOI: 10.1016/j.cities.2024.105098](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub)  
+<u>R. Camacho</u>, J. Aryal, and A. Rajabifard  
+[Cities](https://www.sciencedirect.com/journal/cities), 2024  
+[DOI: 10.1016/j.cities.2024.105098](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub)
 
 **Late Holocene volcanic stratigraphy and eruption chronology of the dacitic Young Doña Juana volcano, Colombia**  
-N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, <u>R. Camacho</u>, and M. Cabrera.  
-[GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin)  
-2023  
-[DOI: 10.1130/B36557.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/135/9-10/2510/619822/Late-Holocene-volcanic-stratigraphy-and-eruption)  
-
-**Geomorphology on a tropical volcanic setting: interplay of fluvial, gravitational, structural, and volcanic processes in the Doña Juana Volcanic Complex, Colombia**  
-S. Salazar, <u>R. Camacho</u>, S. Villota, N. Pardo, A. Velasquez, M. Cabrera and , B. Pulgarin  
-[Journal of Maps](https://www.tandfonline.com/journals/tjom20)  
-2022  
-[DOI: 10.1080/17445647.2022.2101948](https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2101948)  
-
-**Modeling population density guided by land use cover change model: a case study of Bogotá**  
-L.A. Guzman, <u>R. Camacho</u>, D.A. Rodriguez, and C. Beltrán  
-[Population and Environment](https://www.springer.com/journal/11111)  
-2022  
-[DOI: 10.1007/s11111-022-00400-5](https://link.springer.com/article/10.1007/s11111-022-00400-5)  
-
-•	• •  
+N. Pardo, R. Sulpizio, F. Lucchi, G. Giordano, S. Cronin, B. Pulgarin, M. Roverato, A. M. Correa, <u>R. Camacho</u>, and M. Cabrera  
+[GSA Bulletin](https://pubs.geoscienceworld.org/gsabulletin), 2023  
+[DOI: 10.1130/B36557.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/135/9-10/2510/619822/Late-Holocene-volcanic-stratigraphy-and-eruption)
 
 [... see all publications](./publications)
 
 ---
 
-## Teaching Experience
+## Teaching experience
 
-*   Jul - Nov 2023: Tutor at University of Melbourne of the course Digital Infrastructure Systems Capstone ([GEOM30012](https://handbook.unimelb.edu.au/2023/subjects/geom30012)).
-*   Jul - Nov 2022: Tutor at University of Melbourne of the course Integrated Spatial Systems ([GEOM30012](https://handbook.unimelb.edu.au/2022/subjects/geom30012)).  
-*   Jan 2017 - Dec 2019: Course coordinator and Lecturer at Universidad de Los Andes of the course Geomatics ([ICYA1125](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2018/segundo-semestre/icya-1125-geomatica-2018-20-secc-1.pdf)).  
-*  	Jan 2017 - Dec 2017: Lecturer at Universidad de Los Andes of the course Statics ([ICYA1116](https://civilyambiental.uniandes.edu.co/sites/default/files/documentos/contenidos-programaticos/contenidos-programaticos-2017/segundo-semestre/2017-20-icya/icya-1116-estatica-2017-20-seccion-3.pdf)).  
+- **Tutor**, University of Melbourne  
+  *Digital Infrastructure Systems Capstone* (2023)
+
+- **Tutor**, University of Melbourne  
+  *Integrated Spatial Systems* (2022)
+
+- **Course Coordinator and Lecturer**, Universidad de Los Andes  
+  *Geomatics* (2017–2019)
+
+- **Lecturer**, Universidad de Los Andes  
+  *Statics* (2017)
 
 ---
 
 ## Awards
 
-*   November 2022: [Dejar Huella Award: Best Impactful Project](https://geociencias.uniandes.edu.co/es/dejar-huella-uniandes).  Universidad de Los Andes.
-*   September 2021: [Biannual Javeriana Award in Research](https://wallet.xertify.co/certificates/EEC73DFBA001).
-*   January 2020: PhD scholarship from Colombia's Ministry of Science, Technology, and Innovation to undertake doctoral studies abroad and a partial Melbourne Research Scholarship.
-*   September 2014: UniverLecco Gold Scholarship.
-
-[## Manuscript](./manuscript)
-
+- **Dejar Huella Award: Best Impactful Project**, Universidad de Los Andes (2022)
+- **Biannual Javeriana Award in Research** (2021)
+- **PhD scholarship** from Colombia’s Ministry of Science, Technology, and Innovation, plus partial Melbourne Research Scholarship (2020)
+- **UniverLecco Gold Scholarship** (2014)
 
 ---
+
+## Latest news
+
+25/03/2026: Thesis examination outcome: **Passed with minor revisions**.  
+10/12/2025: Submitted my thesis: *Spatial Dynamics of the Informal Urban Growth in Disaster-prone Cities*.  
+09/12/2025: Presented and passed my PhD Completion Seminar.  
+10/11/2025: Presented at the *Victorian Disaster Research Forum* at RMIT.  
+30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published.  
+18/06/2024: Presented part of my PhD research at the [43rd EARSeL Symposium](https://manchester2024.earsel.org/).  
+05/05/2024: First PhD [article](https://www.sciencedirect.com/science/article/pii/S0264275124003123?via%3Dihub) published.  
+10/05/2023: Oral presentation at *LOCATE23 Conference*.  
+14/12/2020: Officially started my PhD at [The University of Melbourne](https://www.unimelb.edu.au/).
+
+[... see all news](./news)
