@@ -17,6 +17,10 @@ My research involves understanding how informal urban settlements' spatial dynam
 ---
 
 ## Latest news
+25/03/2025: Thesis examination outcome: Passed with Minor revisions! The examiners were professors from Boston University and Cambridge University.  
+10/12/2025: **Submitted my thesis!** titled: <i>Spatial Dynamics of the Informal Urban Growth in Disaster-prone Cities<i/>.  
+09/12/2025: Presented and passed my PhD Completion Seminar!.  
+10/11/2025: Presented at the <i>Victorian Disaster Research Forum<i/> at RMIT.  
 12/05/2025: Back from the Leave of Absence, ready to finally finish my PhD journey!.  
 30/12/2024: Second PhD [article](https://www.sciencedirect.com/science/article/pii/S0197397524002728?via%3Dihub) published!  
 01/11/2024: Took a 6-month leave of absence from the PhD to focus on mental health.  
