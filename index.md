@@ -5,7 +5,7 @@ title: "Ricardo Camacho"
 
 # About me
 
-I am Ricardo Camacho, a geospatial researcher working at the intersection of **Earth Observation, spatial modelling, and disaster risk**.
+I am a geospatial researcher specialising in **Earth Observation, spatial modelling, and disaster risk**.
 
 I recently completed my PhD in Geomatics at [The University of Melbourne](https://www.unimelb.edu.au/), where I worked with the Centre for Spatial Data Infrastructure and Land Administration ([CSDILA](https://eng.unimelb.edu.au/csdila)), the Centre for Disaster Management and Public Safety ([CDPMS](https://www.unimelb.edu.au/cdmps)), and the [Research Group in EO and AI](https://www.unimelb.edu.au/cdmps/research/research-units/earth-observations). I was co-supervised by [Assoc. Prof. Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal) and [Prof. Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard).
 
